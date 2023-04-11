@@ -8,7 +8,7 @@ The module 14 challenge will Javascript and HTML to learn to build an interactiv
 The files uses in this challenge will in in JavaScript and HTML format <br />
 
 ## Getting Started
-Link to dashboard: 
+Link to dashboard: https://alandeng7.github.io/Module-14-Interactive-Visualizations/
 
 ## Contributing
 Alan Deng
